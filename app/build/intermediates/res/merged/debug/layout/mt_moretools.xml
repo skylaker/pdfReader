@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="left|center_vertical"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/mt_ll_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/ux_color_white"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/ux_horz_left_margin_phone"
+            android:paddingRight="@dimen/ux_horz_right_margin_phone"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/mt_text_markup"
+                android:textColor="@color/ux_text_color_menu_dark"
+                android:textSize="@dimen/ux_text_height_menu"
+                android:gravity="center"/>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="3dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingBottom="7dp"
+                    android:src="@drawable/annot_highlight_selector"
+                    android:id="@+id/mt_iv_highlight" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:layout_marginLeft="15dp"
+                    android:src="@drawable/annot_unl_selector"
+                    android:id="@+id/mt_iv_underline" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:layout_marginLeft="15dp"
+                    android:src="@drawable/annot_sqg_selector"
+                    android:id="@+id/mt_iv_squiggly" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="4dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingBottom="6dp"
+                    android:layout_marginLeft="15dp"
+                    android:src="@drawable/annot_sto_selector"
+                    android:id="@+id/mt_iv_strikeout" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="4dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingBottom="6dp"
+                    android:layout_marginLeft="15dp"
+                    android:src="@drawable/annot_insert_selector"
+                    android:id="@+id/mt_iv_insert" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="4dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingBottom="6dp"
+                    android:layout_marginLeft="15dp"
+                    android:src="@drawable/annot_replace_selector"
+                    android:id="@+id/mt_iv_replace" />
+
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:src="@color/ux_color_seperator_gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/ux_horz_left_margin_phone"
+            android:paddingRight="@dimen/ux_horz_right_margin_phone"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/ux_text_color_menu_dark"
+                android:textSize="@dimen/ux_text_height_menu"
+                android:text="@string/mt_drawing" />
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="5dp">
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:src="@drawable/mt_iv_line_selector"
+                        android:id="@+id/mt_iv_line" />
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:layout_marginLeft="15dp"
+                        android:src="@drawable/annot_square_selector"
+                        android:id="@+id/mt_iv_square" />
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:layout_marginLeft="15dp"
+                        android:src="@drawable/annot_circle_selector"
+                        android:id="@+id/mt_iv_circle" />
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:layout_marginLeft="15dp"
+                        android:src="@drawable/mt_iv_arrow_selector"
+                        android:id="@+id/mt_iv_arrow" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:layout_marginLeft="15dp"
+                        android:src="@drawable/mt_iv_pencil_selector"
+                        android:id="@+id/mt_iv_pencil" />
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:layout_marginLeft="15dp"
+                        android:src="@drawable/rd_sg_clear_selector"
+                        android:id="@+id/mt_iv_eraser" />
+                </LinearLayout>
+            </HorizontalScrollView>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:src="@color/ux_color_seperator_gray" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/ux_horz_left_margin_phone"
+            android:paddingRight="@dimen/ux_horz_right_margin_phone"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/ux_text_color_menu_dark"
+                android:textSize="@dimen/ux_text_height_menu"
+                android:text="@string/mt_others" />
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none">
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:gravity="center"
+                        android:id="@+id/mt_ll_typewriter">
+                        <ImageView
+                            android:id="@+id/mt_iv_typewriter"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/tb_circle_background"
+                            android:scaleType="center"
+                            android:src="@drawable/annot_typewriter_selector" />
+                        <TextView
+                            android:id="@+id/mt_tv_typewriter"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/ux_text_color_body2_dark"
+                            android:textSize="12dp"
+                            android:text="@string/annot_tool_display_name_typewrite" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center"
+                        android:id="@+id/mt_ll_note">
+                        <ImageView
+                            android:id="@+id/mt_iv_note"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/tb_circle_background"
+                            android:scaleType="center"
+                            android:src="@drawable/mt_iv_note_selector" />
+                        <TextView
+                            android:id="@+id/mt_tv_note"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/ux_text_color_body2_dark"
+                            android:textSize="12dp"
+                            android:text="@string/fx_string_note" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:id="@+id/mt_ll_stamp"
+                        android:orientation="vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center">
+                        <ImageView
+                            android:id="@+id/mt_iv_stamp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/tb_circle_background"
+                            android:scaleType="center"
+                            android:src="@drawable/_feature_mt_iv_stamp_selector" />
+                        <TextView
+                            android:id="@+id/mt_tv_stamp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/ux_text_color_body2_dark"
+                            android:textSize="12dp"
+                            android:text="@string/annot_tool_display_name_stamp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/mt_ll_fileattach"
+                        android:orientation="vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center">
+                        <ImageView
+                            android:id="@+id/mt_iv_fileattach"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/tb_circle_background"
+                            android:scaleType="center"
+                            android:src="@drawable/annot_fileattachment_selector" />
+                        <TextView
+                            android:id="@+id/mt_tv_fileattach"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/ux_text_color_body2_dark"
+                            android:textSize="12dp"
+                            android:text="@string/fx_string_fileattachment" />
+                    </LinearLayout>
+
+                </LinearLayout>
+            </HorizontalScrollView>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/mt_ll_arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/mt_iv_arrow_bottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pb_arrow_bottom"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/panel_attachment_topbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ux_toolbar_height_phone"
+        android:background="@color/ux_text_color_subhead_colour"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/panel_attachment_topbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="@string/rv_panel_title_attachment"
+            android:textColor="@color/ux_color_white"
+            android:textSize="@dimen/ux_text_height_title" />
+
+        <ImageView
+            android:id="@+id/panel_attachment_topbar_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/ux_horz_left_margin_phone"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="10dp"
+            android:src="@drawable/panel_topbar_close_selector"
+
+            />
+
+        <TextView
+            android:id="@+id/panel_attachment_topbar_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/rv_panel_title_add"
+            android:textColor="@color/ux_color_white"
+            android:textSize="@dimen/ux_text_height_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/ux_horz_left_margin_phone"
+            />
+
+    </RelativeLayout>
+
+</FrameLayout>

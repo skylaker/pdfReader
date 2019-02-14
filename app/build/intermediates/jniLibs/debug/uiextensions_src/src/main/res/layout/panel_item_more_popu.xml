@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="13dp"
+    android:orientation="horizontal"
+    android:background="#d5d5d5">
+
+    <TextView
+        android:id="@+id/panel_more_tv_save"
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:drawablePadding="4dp"
+        android:layout_gravity="center"
+        android:drawableTop="@drawable/_50200_rd_attachment_item_save_selector"
+        android:text="Save" />
+
+
+    <TextView
+        android:id="@+id/panel_more_tv_desc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:text="@string/rv_panel_edit_desc"
+        android:drawableTop="@drawable/rd_annot_item_comment_selector"
+        android:drawablePadding="6dp"
+        />
+
+    <TextView
+        android:id="@+id/panel_more_tv_delete"
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:text="@string/fx_string_delete"
+        android:drawableTop="@drawable/rd_annot_item_delete_selector"
+        android:drawablePadding="4dp"
+        />
+
+</LinearLayout>

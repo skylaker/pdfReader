@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.foxit.home"
+        minSdkVersion 11
+        targetSdkVersion 26
+        versionCode 4
+        versionName "4.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['../../../libs']
+        }
+    }
+}
+repositories{
+    flatDir {        dirs '../../../libs'    }
+}
+dependencies {
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+    compile(name:'FoxitRDKUIExtensions', ext:'aar')
+}
+
+task makeApp(type :Copy){
+    from('build/outputs/apk')
+    into('../../../app')
+    include('app-debug.apk')
+    rename ('app-debug.apk', 'complete_pdf_viewer.apk')
+}
+
+task clearApp(type :Delete){
+    delete 'build/outputs/apk/apk-debug.apk'
+    delete '../../../app/complete_pdf_viewer.apk'
+}
+
+makeApp.dependsOn(clearApp,build)

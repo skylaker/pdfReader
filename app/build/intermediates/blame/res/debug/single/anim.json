@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\view_anim_ttob_show.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\view_anim_ttob_show.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\view_anim_ltor_hide.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\view_anim_ltor_hide.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\view_anim_ttob_hide.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\view_anim_ttob_hide.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pb_anim_b2t_hidden.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\pb_anim_b2t_hidden.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\view_anim_ltor_show.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\view_anim_ltor_show.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\view_anim_visible_hide.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\view_anim_visible_hide.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\view_anim_rtol_hide.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\view_anim_rtol_hide.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\view_anim_rtol_show.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\view_anim_rtol_show.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\view_anim_visible_show.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\view_anim_visible_show.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\view_anim_btot_show.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\view_anim_btot_show.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\view_anim_btot_hide.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\view_anim_btot_hide.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pb_anim_b2t_show.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\anim\\pb_anim_b2t_show.xml"
+    }
+]

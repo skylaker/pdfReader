@@ -1,0 +1,1698 @@
+[
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style6.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style6.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_continue_create_background.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_continue_create_background.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_back.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_back.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fm_filecount_bg.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fm_filecount_bg.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_bar_edit_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_bar_edit_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_small_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_small_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_conpage_pad_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_conpage_pad_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_line_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_line_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_line_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_line_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style11.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style11.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_pencil_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_pencil_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_delete_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_delete_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_outline_back.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_outline_back.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_replace_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_replace_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_replace.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_replace.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_conpage_pad_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_conpage_pad_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_rotate_disable.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_rotate_disable.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_tabimg_annotation_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_tabimg_annotation_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\formfiller_next_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\formfiller_next_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_redo_able.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_redo_able.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pathctl_back_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pathctl_back_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_list_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_list_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_line.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_line.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_typewriter_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_typewriter_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_typewriter_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_typewriter_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_sg_save_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_sg_save_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_annot_item_delete_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_annot_item_delete_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_undo_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_undo_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_unl_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_unl_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_goto_page_open_edit_bg_blue.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_goto_page_open_edit_bg_blue.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_circle_bg_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_circle_bg_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_opacity50.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_opacity50.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_lockscreen_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_lockscreen_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_redo_disable.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_redo_disable.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_stamp.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_stamp.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_jumppage_next_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_jumppage_next_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_tabimg_attachment.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_tabimg_attachment.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_notpicturn.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_notpicturn.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_search.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_search.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\topbar_more_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\topbar_more_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_extract_able.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_extract_able.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pathctl_dest_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pathctl_dest_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sign_list_create_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\sign_list_create_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_ofd.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_ofd.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_highlight.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_highlight.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sg_cert_add_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\sg_cert_add_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_border_style2.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_border_style2.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_highlight_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_highlight_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_highlight_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_highlight_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_note_type_note.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_note_type_note.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_outline_next.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_outline_next.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_eraser.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_eraser.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_note_type_help.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_note_type_help.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_dynamicstamps_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_dynamicstamps_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_reply_list_minus_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_reply_list_minus_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\readingmark_topbar_blue_add_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\readingmark_topbar_blue_add_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_circle_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_circle_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pathctl_dest_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pathctl_dest_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_crop.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_crop.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_tabimg_readingmark_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_tabimg_readingmark_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_selectrect.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_selectrect.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_border_style3.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_border_style3.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_textselect_handler.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_textselect_handler.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hm_select_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\hm_select_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_off.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\setting_off.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_ll_colors_dot.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_ll_colors_dot.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style19.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style19.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_readingmark_topbar_add.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_readingmark_topbar_add.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style2.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style2.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_other.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_other.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style3.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style3.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_replace.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_replace.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_undo_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_undo_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_strikeout.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_strikeout.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_fontstyle_back.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_fontstyle_back.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_undo_able.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_undo_able.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_insert.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_insert.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_arrow_left.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_arrow_left.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_search_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_search_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dlg_back_blue.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\dlg_back_blue.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_caret_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_caret_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_delete_able.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_delete_able.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_cropw_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_cropw_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\topbar_more_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\topbar_more_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_opacity100.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_opacity100.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_top_tv_bg.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_top_tv_bg.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_seekbar_bt_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_seekbar_bt_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style18.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style18.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_rotate.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_rotate.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_crop_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_crop_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_circle_bg_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_circle_bg_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_ppt.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_ppt.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_back_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_back_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sg_cert_add_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\sg_cert_add_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_previous_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_previous_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sign_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\sign_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_light_big_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_light_big_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_xls.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_xls.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tb_circle_background_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\tb_circle_background_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_standardstamps_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_standardstamps_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_opacity25_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_opacity25_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_add_page_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_add_page_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_xml.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_xml.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sg_list_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\sg_list_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_redo_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_redo_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sign_template_edit_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\sign_template_edit_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_rotate_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_rotate_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_pencil.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_pencil.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_save.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_save.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bookmark_topbar_blue_add_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\bookmark_topbar_blue_add_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_phone_reflow_picture_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_phone_reflow_picture_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_sg_eraser_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_sg_eraser_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_circle_bg.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_circle_bg.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_insert_left.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_insert_left.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_arrow_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_arrow_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_line.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_line.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_ink_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_ink_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_tabimg_outline.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_tabimg_outline.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_square.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_square.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_delete_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_delete_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_checkbox_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_note.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_note.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_sto_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_sto_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_tabimg_readingmark.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_tabimg_readingmark.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_select_true.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_select_true.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_square_push.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_square_push.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_jumppage_previous_press.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_jumppage_previous_press.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style14.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style14.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_left.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_left.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fx_item_detail.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fx_item_detail.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_small.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_small.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style1.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style1.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_annot_item_reply.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_annot_item_reply.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_note_type_insert.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_note_type_insert.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_zoomout_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_zoomout_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_square_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_square_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_bar_circle_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_bar_circle_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_circle_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_circle_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_annot_item_delete.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_annot_item_delete.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_opacity75_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_opacity75_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_jumppage_next_press.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_jumppage_next_press.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_bar_circle_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_bar_circle_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_fat_type_tag.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_fat_type_tag.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_text.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_text.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_copy_able.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_copy_able.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_popup_bg_shadow.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_popup_bg_shadow.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_sto_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_sto_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hm_search_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\hm_search_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_stamp_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_stamp_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_right.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_right.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_reply_list_add.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_reply_list_add.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_reflow.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_reflow.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_func_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_func_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_doc.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_doc.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_arrow_right.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_arrow_right.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_fileattachment.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_fileattachment.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_previous.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_previous.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style16.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style16.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_clear_small_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_clear_small_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sign_template_edit_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\sign_template_edit_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_arrow_bottom.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_arrow_bottom.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_redo_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_redo_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_daynight_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_daynight_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_text_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_text_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_note_type_paragraph.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_note_type_paragraph.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_circle_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_circle_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_unl_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_unl_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hm_search_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\hm_search_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_note_type_new_paragraph.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_note_type_new_paragraph.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_signherestamps.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_signherestamps.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\formfiller_pre_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\formfiller_pre_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_note_type_comment.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_note_type_comment.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_popup_bg.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_popup_bg.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_typwriter.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_typwriter.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_arrow.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_arrow.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_currentpage_background.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_currentpage_background.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_circle_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_circle_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_on.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\setting_on.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_sg_back_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_sg_back_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_outline_back_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_outline_back_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_annot_item_reply_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_annot_item_reply_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_selected.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_selected.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_edit_bg_white.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_edit_bg_white.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_zoomin_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_zoomin_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_extract_disable.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_extract_disable.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hm_search_bg.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\hm_search_bg.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_dynamicstamps.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_dynamicstamps.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_certlist_checkbox_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_certlist_checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_sqg_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_sqg_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_uitoast_background.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_uitoast_background.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_selected_all.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_selected_all.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_circle_push.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_circle_push.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_left_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_left_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_fat_type_paperclip.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_fat_type_paperclip.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_panel_annot_item_more_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_panel_annot_item_more_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_50200_rv_panle_save_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_50200_rv_panle_save_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_select_all.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_select_all.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\readingmark_topbar_blue_add_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\readingmark_topbar_blue_add_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_panel_annot_item_more.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_panel_annot_item_more.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style8.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style8.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tb_circle_background_push.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\tb_circle_background_push.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_singlepage_pad_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_singlepage_pad_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sg_list_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\sg_list_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_txt.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_txt.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sign_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\sign_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_propertycircleitem_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_propertycircleitem_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_color_bg.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_color_bg.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_readingmark_topbar_add_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_readingmark_topbar_add_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style13.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style13.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_sg_eraser_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_sg_eraser_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pathctl_back_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pathctl_back_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_light_small.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_light_small.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_squiggly_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_squiggly_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_border_style4.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_border_style4.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_topbar_close.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_topbar_close.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_daynight_day.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_daynight_day.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_search_clear_small_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_search_clear_small_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_note_type_key.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_note_type_key.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_pdf.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_pdf.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_singlepage_pad_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_singlepage_pad_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style4.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style4.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_delete_all_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_delete_all_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_thumbnail_pad_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_thumbnail_pad_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cloud_back_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\cloud_back_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_gotopage_background.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_gotopage_background.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_create_annot_continuous_false_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_create_annot_continuous_false_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_sg_back_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_sg_back_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_bar_edit_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_bar_edit_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_sg_save_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_sg_save_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_redpoint.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_redpoint.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_delete_all_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_delete_all_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_jumppage_previous_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_jumppage_previous_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_extract_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_extract_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_50200_rv_panle_save.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_50200_rv_panle_save.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_light_small_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_light_small_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\formfiller_next_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\formfiller_next_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_ppdf.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_ppdf.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_bar_setting_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_bar_setting_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_next_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_next_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style17.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style17.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_opacity50_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_opacity50_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_delete_disable.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_delete_disable.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_border_style1.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_border_style1.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tool_prompt_bk.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\tool_prompt_bk.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_undo_disable.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_undo_disable.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_topbar_close_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_topbar_close_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\formfiller_pre_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\formfiller_pre_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_right_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_right_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_tabimg_outline_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_tabimg_outline_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_fat_type_pushpin.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_fat_type_pushpin.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_insert_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_insert_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_delete_self.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_delete_self.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_square_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_square_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style21.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style21.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_extract.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_extract.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_border_style_checked.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_border_style_checked.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_annot_create_ok_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_annot_create_ok_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_opacity100_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_opacity100_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_select_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_select_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_arrow_top.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_arrow_top.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_signherestamps_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_signherestamps_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_thumbnail_pad.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_thumbnail_pad.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_rotate_clockwise.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_rotate_clockwise.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_create_annot_continuous_false_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_create_annot_continuous_false_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_thumbnail_pad_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_thumbnail_pad_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_sign_circle_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_sign_circle_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_more.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_more.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style12.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style12.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_strikeout_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_strikeout_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_search_small.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_search_small.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_moretools_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_moretools_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\readingmark_topbar_blue_add_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\readingmark_topbar_blue_add_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_annot_reply_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_annot_reply_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_notpicture_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_notpicture_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_sqg_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_sqg_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\am_popup_bg.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\am_popup_bg.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_certlist_info_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_certlist_info_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hm_search_clear_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\hm_search_clear_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_back_background.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_back_background.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_add_page.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_add_page.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_opacity75.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_opacity75.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bookmark_topbar_blue_add_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\bookmark_topbar_blue_add_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style10.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style10.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_zoomin.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_zoomin.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_reflow_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_reflow_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_annot_item_comment.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_annot_item_comment.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_fat_type_graph.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_fat_type_graph.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style7.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style7.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_bar_panel_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_bar_panel_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bookmark_topbar_blue_add_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\bookmark_topbar_blue_add_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_certlist_info_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_certlist_info_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_annot_item_comment_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_annot_item_comment_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_singlepage_pad.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_singlepage_pad.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_standardstamps.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_standardstamps.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_reply_list_add_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_reply_list_add_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_dir.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_dir.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_create_annot_continuous_true_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_create_annot_continuous_true_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_reflow_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_reflow_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_rotate_anticlockwise.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_rotate_anticlockwise.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style5.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style5.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_copy_disable.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_copy_disable.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_top_tv_bg_checked.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_top_tv_bg_checked.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_square_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_square_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tb_circle_background_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\tb_circle_background_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_search_clear_small.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_search_clear_small.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_conpage_pad.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_conpage_pad.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_annot_create_ok_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_annot_create_ok_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_arrow_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_arrow_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_underline_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_underline_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cloud_back_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\cloud_back_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_underline.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_underline.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_list.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_list.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_tabimg_annotation.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_tabimg_annotation.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_lockscreen.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_lockscreen.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_arrow.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_arrow.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_create_annot_continuous_true_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_create_annot_continuous_true_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_rename_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_rename_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_accthment_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_accthment_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_seekbar_bt.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_seekbar_bt.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_reflow_zoomout.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_reflow_zoomout.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_pdf_bg.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_pdf_bg.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_typewriter_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_typewriter_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_checkbox_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_checkbox_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style20.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style20.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_png.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_png.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_result.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_result.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_annot_not_edit_type.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_annot_not_edit_type.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_bar_setting_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_bar_setting_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_fileattachment_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_fileattachment_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_bottom_bg.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_bottom_bg.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_fontstyle_back_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_fontstyle_back_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_moretools.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_moretools.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_circle_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_circle_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_password_check_eye_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_password_check_eye_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style0.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style0.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_squiggly.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_squiggly.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_light_big.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_light_big.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_sign_circle_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_sign_circle_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_phone_reflow_picture_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_phone_reflow_picture_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_typewriter_push.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_typewriter_push.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_circle.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_circle.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_next.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_next.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_bar_panel_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_bar_panel_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_password_check_eye_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_password_check_eye_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_rename_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_rename_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_ll_colors_dot_selected.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_ll_colors_dot_selected.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rd_search_small_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rd_search_small_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hm_search_small.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\hm_search_small.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sign_list_create_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\sign_list_create_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_colorpicker_point_selected.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_colorpicker_point_selected.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_annot_reply_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_annot_reply_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_highlight_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_highlight_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_replace_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_replace_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_outline_next_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_outline_next_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\thumbnail_insert_right.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\thumbnail_insert_right.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_result_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_result_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fb_file_jpg.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\fb_file_jpg.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hm_search_clear_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\hm_search_clear_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_border_style5.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_border_style5.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_insert.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_insert.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_reply_list_minus.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_reply_list_minus.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_tabimg_attachment_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_tabimg_attachment_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_iv_lockscreen_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_iv_lockscreen_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pb_opacity25.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\pb_opacity25.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ml_daynight_night.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\ml_daynight_night.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_certlist_checkbox_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_certlist_checkbox_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_fileattachment_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_fileattachment_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_tool_prompt_pencil.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_tool_prompt_pencil.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_feature_annot_stamp_style15.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\_feature_annot_stamp_style15.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_more_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_more_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\panel_readingmark_topbar_add_checked.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\panel_readingmark_topbar_add_checked.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rv_panel_save_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\rv_panel_save_pressed.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search_clear_small.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\search_clear_small.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\annot_propertycircleitem_normal.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\annot_propertycircleitem_normal.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_thumnail_toolbar_rotate_able.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\icon_thumnail_toolbar_rotate_able.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mt_iv_note_pressed.png",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable-xhdpi-v4\\mt_iv_note_pressed.png"
+    }
+]

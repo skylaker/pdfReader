@@ -1,0 +1,746 @@
+[
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_next_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\search_next_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_shadow_bottom.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\toolbar_shadow_bottom.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_lockscreen_checked_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_lockscreen_checked_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_readingmark_item_et_border.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_readingmark_item_et_border.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rv_certlist_checkbox_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rv_certlist_checkbox_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_circle_bg_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_circle_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_cursor_color_white.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\edittext_cursor_color_white.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_feature_mt_iv_stamp_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\_feature_mt_iv_stamp_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_circle_background.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\tb_circle_background.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_right_button_normal.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dialog_right_button_normal.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_delete_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\fb_delete_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mt_iv_arrow_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\mt_iv_arrow_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_attachment_item_save_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_attachment_item_save_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\formfiller_next.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\formfiller_next.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_reflow_list_selecter.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_reflow_list_selecter.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_singlepage_pad_checked_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_singlepage_pad_checked_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_jumppage_previous_selecter.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_jumppage_previous_selecter.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_reflow_previous_selecter.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_reflow_previous_selecter.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mt_more_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\mt_more_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_checkbox_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\fb_checkbox_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cloud_back.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\cloud_back.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_outline_back_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\panel_outline_back_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_left_button_pressed.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dialog_left_button_pressed.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_circle_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_circle_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_reflow_back_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_reflow_back_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_result_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\search_result_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_outline_item_bg.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\panel_outline_item_bg.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_annot_item_reply_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_annot_item_reply_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumbnail_add_page_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\thumbnail_add_page_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rv_panel_bkot_item_bg.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rv_panel_bkot_item_bg.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_shadow_bg270.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\search_shadow_bg270.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dlg_title_bg_circle_corner_blue.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dlg_title_bg_circle_corner_blue.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_left_button_background_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dialog_left_button_background_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_previous_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\search_previous_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_shadow_top.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\toolbar_shadow_top.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_cursor_color_black.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\edittext_cursor_color_black.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_pencil_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_pencil_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumbnail_textview_background_normal.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\thumbnail_textview_background_normal.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dlg_bt_bg_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dlg_bt_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_daynight_night_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_daynight_night_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_search_small_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_search_small_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_annot_item_delete_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_annot_item_delete_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pathctl_back.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\pathctl_back.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mt_iv_line_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\mt_iv_line_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_insert_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_insert_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pb_color_bg_border.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\pb_color_bg_border.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_outline_next_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\panel_outline_next_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_template_edit_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\sign_template_edit_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rv_certlist_info_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rv_certlist_info_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_highlight_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_highlight_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_jumppage_next_selecter.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_jumppage_next_selecter.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_pressed.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dialog_button_pressed.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_seekbar_thumb_bt_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_seekbar_thumb_bt_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_reflow_no_picture_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_reflow_no_picture_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumbnail_extract_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\thumbnail_extract_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_annot_create_continuously_true_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_annot_create_continuously_true_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mt_iv_note_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\mt_iv_note_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_topbar_close_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\panel_topbar_close_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_reply_item_add_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_reply_item_add_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_small_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\search_small_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dlg_title_bg_circle_corner_white.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dlg_title_bg_circle_corner_white.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_propertycircleitem_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_propertycircleitem_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_bar_setting_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_bar_setting_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_sg_save_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_sg_save_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_feature_annot_stamp_signherestamps_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\_feature_annot_stamp_signherestamps_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_sqg_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_sqg_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_search_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_search_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pb_tabs_bg.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\pb_tabs_bg.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookmark_item_et_border.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\bookmark_item_et_border.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_sg_clear_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_sg_clear_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_item_func_layout_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\fb_item_func_layout_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\formfiller_pre.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\formfiller_pre.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_bkot_item_bg.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\panel_bkot_item_bg.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\form_navigation_button_bg_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\form_navigation_button_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mt_iv_pencil_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\mt_iv_pencil_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_rename_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\fb_rename_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_annot_create_continuously_false_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_annot_create_continuously_false_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_thumbnail_pad_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_thumbnail_pad_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_reflow_checked_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_reflow_checked_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_50200_rd_attachment_item_save_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\_50200_rd_attachment_item_save_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_crop_checked_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_crop_checked_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_readingmark_add_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_readingmark_add_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_seekbar_unenable_bg.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_seekbar_unenable_bg.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_bar_circle_bg_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_bar_circle_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pb_fontstyle_back_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\pb_fontstyle_back_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_seekbar_bg.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_seekbar_bg.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dlg_back_blue_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dlg_back_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear_small_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\search_clear_small_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_tabimg_outline_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\panel_tabimg_outline_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_reflow_picture_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_reflow_picture_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_reflow_zoomout_selecter.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_reflow_zoomout_selecter.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_left_button_normal.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dialog_left_button_normal.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_undo_enabled.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_undo_enabled.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sg_list_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\sg_list_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_sg_back_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_sg_back_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumbnail_editlayout_bg.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\thumbnail_editlayout_bg.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_sto_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_sto_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_search_clear_small_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_search_clear_small_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_fileattachment_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_fileattachment_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_singlepage_pad_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_singlepage_pad_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_circle_bg_checked_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_circle_bg_checked_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sg_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\sg_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_shadow_bg0.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\search_shadow_bg0.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_bar_panel_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_bar_panel_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_decoration_res.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\list_decoration_res.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_reflow_back_selecter.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_reflow_back_selecter.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pathctl_dest.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\pathctl_dest.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_thumbnail_pad_checked_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_thumbnail_pad_checked_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_reflow_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_reflow_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_feature_annot_stamp_dynamicstamps_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\_feature_annot_stamp_dynamicstamps_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_background.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\progress_bar_background.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sg_list_create_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\sg_list_create_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_daynight_day_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_daynight_day_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_bar_more_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_bar_more_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_shadow_bg90.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\search_shadow_bg90.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookmark_topbar_blue_add_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\bookmark_topbar_blue_add_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_right_button_pressed.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dialog_right_button_pressed.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_lockscreen_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_lockscreen_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_crop_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_crop_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_radian.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dialog_radian.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dlg_title_bg_4circle_corner_white.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dlg_title_bg_4circle_corner_white.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_annot_item_comment_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_annot_item_comment_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_panel_annot_item_more_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_panel_annot_item_more_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_reply_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_reply_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_menu_item_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_menu_item_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_reply_item_minus_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_reply_item_minus_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sg_cert_add_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\sg_cert_add_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dlg_title_bg_circle_corner_gray.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dlg_title_bg_circle_corner_gray.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_item_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\fb_item_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\am_tv_bg_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\am_tv_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_redo_enabled.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_redo_enabled.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_right_button_background_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dialog_right_button_background_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_background_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dialog_button_background_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_tabimg_attachment_seletor.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\panel_tabimg_attachment_seletor.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_bar_edit_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_bar_edit_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_reflow_zoomin_selecter.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_reflow_zoomin_selecter.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_search_shadow_bg90.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_search_shadow_bg90.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dlg_title_bg_cc_bottom_yellow.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dlg_title_bg_cc_bottom_yellow.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pb_fontstyle_tv_border.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\pb_fontstyle_tv_border.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_sign_circle_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_sign_circle_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_tabing_readingmark_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\panel_tabing_readingmark_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fx_dialog_title_radian.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\fx_dialog_title_radian.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_conpage_pad_checked_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_conpage_pad_checked_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_tabing_annotation_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\panel_tabing_annotation_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumbnail_rotate_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\thumbnail_rotate_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumbnail_textview_background_current.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\thumbnail_textview_background_current.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_typewriter_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_typewriter_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_tabing_outline_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\panel_tabing_outline_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_annot_create_ok_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_annot_create_ok_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel_tabimg_annotation_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\panel_tabimg_annotation_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ml_iv_conpage_pad_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\ml_iv_conpage_pad_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumbnail_delete_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\thumbnail_delete_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_normal.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\dialog_button_normal.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rd_reflow_next_selecter.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\rd_reflow_next_selecter.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_unl_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_unl_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_replace_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_replace_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_feature_annot_stamp_standardstamps_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\_feature_annot_stamp_standardstamps_selector.xml"
+    },
+    {
+        "merged": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\annot_square_selector.xml",
+        "source": "E:\\reader\\samples\\complete_pdf_viewer\\app\\build\\intermediates\\exploded-aar\\FoxitRDKUIExtensions\\res\\drawable\\annot_square_selector.xml"
+    }
+]

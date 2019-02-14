@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">uiextensions_src</string>
+
+    <string name="fx_string_cancel">Cancel</string>
+    <string name="fx_string_save">Save</string>
+    <string name="fx_string_saveas">Save as</string>
+    <string name="fx_string_filereplace_warning">The file already exists, do you want to replace it?</string>
+    <string name="hm_back">Back</string>
+    <!--  Search -->
+    <string name="search_hint">Input text to search</string>
+    <string name="search_find_number">Total Found: %1$s</string>
+    <string name="search_page_number">Page %1$s</string>
+
+    <string name="fx_string_delete">Delete</string>
+    <string name="rv_panel_annot_loading_start">Loading&#8230;</string>
+
+    <string name="rd_pb_scale">Scale relative to target page</string>
+
+    <string name="pb_fill_tab">Fill</string>
+    <string name="pb_type_tab">Icon</string>
+
+    <string name="fm_annot_copy">Content has been added to clipboard.</string>
+
+    <string name="fm_favorite">Favorite</string>
+    <string name="fm_move">Move</string>
+
+    <string name="fm_paste_replace">Replace</string>
+    <string name="fm_paste_skip">Skip</string>
+    <string name="rv_password_dialog_title">Password</string>
+    <string name="rv_tips_password_error">"The password is incorrect, please try again</string>
+    <string name="rv_tips_password">This file is password protected, please enter password below</string>
+    <string name="fx_string_passwordDialog_title">"Please Input password"</string>>
+    <string name="rv_emailreview_mergedlg_openbutton">No, open only</string>
+
+    <string name="cloud_toolbar_more_upload">Upload</string>
+ 	<string name="action_more">More</string>
+    <string name="rd_menu_file">File</string>
+    <string name="menu_more_group_protect">Protect</string>
+    <string name="menu_more_item_remove_encrytion">Remove Security</string>
+    <string name="rv_doc_encrypt_standard_switch_title">Manage Security</string>
+    <string name="rv_doc_encrypt_standard_switch_content">Are you sure you want to change the security of this document?</string>
+    
+    <!-- Slidingdoor Annotation Panel Resource -->
+    <string name="rv_panel_annot_title">Annotations</string>
+    <string name="rv_panel_annot_noinformation">No Annotation List</string>
+    <string name="rv_panel_annot_item_pagenum">Page </string>
+    <string name="rv_panel_annot_deleting">Deleting&#8230;</string>
+
+
+    <string name="rv_panel_fileSpec_title">Attachments</string>
+    <string name="rv_panel_fileSpec_content_empty">No Attachment List</string>
+    <string name="rv_panel_fileSpec_item_pagenum">Page </string>
+    <string name="rv_panel_fileSpec_deleting">Deleting&#8230;</string>
+
+    <string name="rv_url_dialog_title">Visit</string>
+    <string name="rv_urldialog_title">Potential security problem exists when opening the link, please confirm to open.</string>
+    <string name="rv_urldialog_title_ko"></string>
+
+    <!-- gotopage  Resource		-->
+    <string name="rv_gotopage_error_toast">Please input correct page number</string>
+    <string name="rd_gotopage_toolbar_go">GO</string>
+
+    <!-- form navigation  Resource		-->
+    <string name="formfiller_navigation_finish">Done</string>
+    <string name="formfiller_navigation_clear">Reset Field</string>
+
+    <!-- moremenu form  Resource		-->
+    <string name="formfiller_import_title">Import</string>
+    <string name="formfiller_export_title">Export</string>
+    <string name="fm_file_exist">File already exists</string>
+    <string name="formfiller_export_error">Failed to export the data.</string>
+
+    <!-- thumbnail  Resource		-->
+    <string name="rv_page_present_thumbnail_edit">Edit</string>
+    <string name="rv_page_delete_all_thumbnail">Deleting all page(s) is not allowed.</string>
+    <string name="rv_page_delete_thumbnail">Are you sure you want to delete the selected page(s)? You cannot undo this action.</string>
+
+    <string name ="rv_page_add_blank">Add Blank Page</string>
+    <string name ="rv_page_add_from_document">Add Document</string>
+    <string name ="rv_page_add_from_gallery">Add From Gallery</string>
+    <string name ="rv_page_add_from_photo">Photo Add</string>
+    <string name="fx_string_font">Font</string>
+    <string name="fx_string_fontsize">FontSize</string>
+    <string name ="fx_string_import">Import From</string>
+    <string name ="fx_string_extract">Extract To</string>
+    <string name ="rv_page_import">Importing pages...</string>
+    <string name ="rv_page_extract">Extracting pages...</string>
+    <string name ="rv_page_rotate_cw">Clock wise rotating pages...</string>
+    <string name ="rv_page_rotate_acw">Anti-clock wise rotating pages...</string>
+    <string name ="rv_page_delete">Deleting pages...</string>
+    <string name ="rv_page_extract_error">Failed to extract the page(s).</string>
+    <string name ="rv_page_import_error">Failed to import the page(s).</string>
+    <string name ="rv_page_remove_error">Failed to remove the page(s).</string>
+    <string name ="rv_page_move_error">Failed to move the page.</string>
+    <string name ="rv_page_rotate_error">Failed to rotate the page(s).</string>
+    <string name="rv_page_open_error">Failed to open this file</string>
+
+    <!--reading mark panel-->
+    <string name="fm_rename">Rename</string>
+    <string name="rv_panel_readingbookmark_title">Reading Bookmarks</string>
+    <string name="rv_panel_readingbookmark_tips_noinfo">No Reading Bookmarks Information</string>
+    <string name="rv_panel_readingbookmark_tips_limited">The reading bookmark length is over the restricted limit.</string>
+    <string name="rd_panel_clear_readingbookmarks">Are you sure you want to clear all  reading bookmarks?</string>
+
+    <string name="rv_document_open_failed">Failed to open this file</string>
+
+    <string name="rv_back_save">Save to the original file</string>
+    <string name="rv_back_saveas">Save to a new file</string>
+    <string name="rv_back_discard_modify">Discard all changes</string>
+
+    <string name="hm_document">Document</string>
+
+
+    <string name="fx_string_crop_title">Crop</string>
+    <string name="fx_string_nocrop">No Crop</string>
+    <string name="fx_string_crop">Crop</string>
+    <string name="fx_string_smartcrop">Smart Crop</string>
+    <string name="fx_string_detect">Detect</string>
+
+    <string name="thumbnail_import_file">From Files</string>
+    <string name="thumbnail_import_dcim">From Album</string>
+    <string name="thumbnail_import_camera">From Camera</string>
+
+</resources>
+
