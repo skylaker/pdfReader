@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements ActivityCompat.On
     private boolean mLicenseValid = false;
     private IHomeModule.onFileItemEventListener mOnFileItemEventListener = null;
 
-    private int i  = 10;
+    private int i  = 100;
     public static final int REQUEST_EXTERNAL_STORAGE = 1;
     private static final String[] PERMISSIONS_STORAGE = {
             Manifest.permission.READ_EXTERNAL_STORAGE,
